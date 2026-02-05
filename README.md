@@ -113,7 +113,7 @@ Download the latest version of Som Music for Android:
 ### Latest Release
 
 <p align="center">
-  <a href="releases/Som-Music-4.1.0.apk">
+  <a href="releases/Som-Music-4.1.0.apk" download>
     <img src="https://img.shields.io/badge/Download-v4.1.0-brightgreen?style=for-the-badge&logo=android" alt="Download v4.1.0">
   </a>
 </p>
@@ -135,13 +135,13 @@ Download the latest version of Som Music for Android:
   </tr>
   <tr>
     <td><strong>v4.1.0</strong></td>
-    <td><a href="releases/Som-Music-4.1.0.apk">📥 Download</a></td>
+    <td><a href="releases/Som-Music-4.1.0.apk" download>📥 Download</a></td>
     <td>~63 MB</td>
     <td>Universal build - Works on all devices</td>
   </tr>
   <tr>
     <td><strong>v4.1.0</strong></td>
-    <td><a href="releases/Som-Music-v4.1.0-arm64.apk">📥 Download</a></td>
+    <td><a href="releases/Som-Music-v4.1.0-arm64.apk" download>📥 Download</a></td>
     <td>~25 MB</td>
     <td>ARM64 optimized - Smaller & faster</td>
   </tr>
