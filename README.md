@@ -99,3 +99,56 @@ Som Music is a full-featured music streaming application built with Flutter and 
 | <img src="screenshots/Artist Page.jpeg" width="200" /> | <img src="screenshots/Library Profile.jpeg" width="200" /> | <img src="screenshots/Artist Info.jpeg" width="200" /> |
 
 ---
+
+## 📥 Download APK
+
+Download the latest version of Som Music for Android:
+
+### Latest Release
+
+<p align="center">
+  <a href="releases/Som-Music-4.1.0.apk">
+    <img src="https://img.shields.io/badge/Download-v4.1.0-brightgreen?style=for-the-badge&logo=android" alt="Download v4.1.0">
+  </a>
+</p>
+
+**Version 4.1.0** - Latest Stable Release  
+📦 Size: ~63 MB  
+✨ Features: Full feature set with YouTube integration, offline downloads, and more
+
+---
+
+### Previous Versions
+
+<table align="center">
+  <tr>
+    <th>Version</th>
+    <th>Download</th>
+    <th>Size</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td><strong>v4.1.0</strong></td>
+    <td><a href="releases/Som-Music-4.1.0.apk">📥 Download</a></td>
+    <td>~63 MB</td>
+    <td>Latest stable release with all features</td>
+  </tr>
+  <tr>
+    <td><strong>v4.0.0</strong></td>
+    <td><a href="releases/Som-Music-v4.0.0-arm64.apk">📥 Download</a></td>
+    <td>~24 MB</td>
+    <td>ARM64 optimized build</td>
+  </tr>
+</table>
+
+### 📋 Installation Instructions
+
+1. **Download** the APK file from the links above
+2. **Enable** "Install from Unknown Sources" in your Android settings
+3. **Open** the downloaded APK file
+4. **Follow** the on-screen installation prompts
+5. **Launch** Som Music and enjoy! 🎵
+
+> ⚠️ **Note**: If you're upgrading from a previous version, you may need to uninstall the old version first to avoid conflicts.
+
+---
