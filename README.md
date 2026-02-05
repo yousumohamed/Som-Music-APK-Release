@@ -21,11 +21,17 @@
   </a>
 </p>
 
+
 ---
 
 **A Modern Somali Music Streaming Platform**
 
 Som Music is a full-featured music streaming application built with Flutter and Next.js, designed specifically for Somali music lovers. The app combines the power of cloud-based streaming with offline downloads, YouTube integration, and a beautiful Spotify-inspired interface.
+
+### 🚀 Quick Links
+- 📥 **[Download APK](#-download-apk)** - Get the latest version
+- 📝 **[Changelog](CHANGELOG.md)** - See what's new
+- 📸 **[Screenshots](#-app-screenshots)** - Preview the app
 
 ---
 
@@ -131,15 +137,29 @@ Download the latest version of Som Music for Android:
     <td><strong>v4.1.0</strong></td>
     <td><a href="releases/Som-Music-4.1.0.apk">📥 Download</a></td>
     <td>~63 MB</td>
-    <td>Latest stable release with all features</td>
+    <td>Universal build - Works on all devices</td>
   </tr>
   <tr>
     <td><strong>v4.0.0</strong></td>
     <td><a href="releases/Som-Music-v4.0.0-arm64.apk">📥 Download</a></td>
     <td>~24 MB</td>
-    <td>ARM64 optimized build</td>
+    <td>ARM64 optimized - Smaller & faster</td>
   </tr>
 </table>
+
+> 📋 **[View Full Changelog](CHANGELOG.md)** - See detailed release notes and upcoming features
+
+### 🔍 Which Version Should I Download?
+
+- **Universal APK (v4.1.0)** - Choose this if:
+  - ✅ You want the latest features
+  - ✅ You're not sure about your device architecture
+  - ✅ Maximum compatibility is important
+
+- **ARM64 APK (v4.0.0)** - Choose this if:
+  - ✅ You have a modern Android device (2019+)
+  - ✅ You want a smaller download size
+  - ✅ You want optimized performance
 
 ### 📋 Installation Instructions
 
