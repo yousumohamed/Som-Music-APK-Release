@@ -132,8 +132,8 @@ Som Music v4.2.4 brings powerful new analytics tracking for admins and optimized
 
 | Version | Type | Size | Download Link |
 |:---:|:---:|:---:|:---:|
-| **v4.2.4** | **Universal** (Recommended) | ~66 MB | [📥 Download APK](https://github.com/yousumohamed/Som_Music/releases/download/v4.2.4/app-release.apk) |
-| **v4.2.4** | **ARM64** (Optimized) | ~26 MB | [📥 Download ARM64](https://github.com/yousumohamed/Som_Music/releases/download/v4.2.4/app-arm64-v8a-release.apk) |
+| **v4.2.4** | **Universal** (Recommended) | ~66 MB | [📥 Download APK](https://github.com/yousumohamed/Som-Music-APK-Release/releases/download/v4.2.4/app-release.apk) |
+| **v4.2.4** | **ARM64** (Optimized) | ~26 MB | [📥 Download ARM64](https://github.com/yousumohamed/Som-Music-APK-Release/releases/download/v4.2.4/app-arm64-v8a-release.apk) |
 
 > 📋 **[View Full Changelog](CHANGELOG.md)** - See detailed release notes and upcoming features
 

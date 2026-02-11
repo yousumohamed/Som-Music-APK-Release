@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 
+## [4.2.4] - 2026-02-11
+
+### ✨ Added
+- **User Analytics Dashboard**: Detailed insights for admins including top songs, listening time, and user activity.
+- **Optimized ARM64 Build**: Dedicated lightweight APK (~26MB) for modern devices.
+
+### 🔧 Improved
+- **User List UI**: Enhanced visual design for user analytics lists in the Admin Panel.
+- **Performance**: Faster load times and smoother navigation.
+
+### 🐛 Fixed
+- **Event Tracking**: Resolved issues with `user_events` recording and "Recently Played" history.
+- **Stability**: General bug fixes and stability improvements.
+
 ## [4.1.0] - 2026-02-05
 
 ### ✨ Added
