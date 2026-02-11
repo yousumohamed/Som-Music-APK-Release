@@ -29,7 +29,7 @@
 Som Music is a full-featured music streaming application built with Flutter and Next.js, designed specifically for Somali music lovers. The app combines the power of cloud-based streaming with offline downloads, YouTube integration, and a beautiful Spotify-inspired interface.
 
 ### 🚀 Quick Links
-- 📥 **[Download APK](#-download-apk)** - Get the latest version
+- 📥 **[Download APK](https://github.com/yousumohamed/Som-Music-APK-Release/releases/download/v4.2.4/app-release.apk)** - Get the latest version
 - 📝 **[Changelog](CHANGELOG.md)** - See what's new
 - 📸 **[Screenshots](#-app-screenshots)** - Preview the app
 

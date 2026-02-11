@@ -4,4 +4,4 @@ v4.1.0       - Added YouTube integration
 v4.1.1       - Fixed YouTube playback issue
 v4.2.0       - Added playlist sharing
 v4.2.1       - Performance improvements
-v5.0.0       - Complete UI redesign (breaking change)
+v4.2.4       - Complete UI redesign (breaking change)
