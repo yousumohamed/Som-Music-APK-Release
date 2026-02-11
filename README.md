@@ -1,7 +1,7 @@
 # 🎵 Som Music
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-4.1.0-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/version-4.2.4-blue.svg" alt="Version">
   <img src="https://img.shields.io/badge/platform-Android%20%7C%20iOS%20%7C%20Windows-lightgrey.svg" alt="Platform">
   <!-- <img src="https://img.shields.io/badge/Flutter-3.2%2B-02569B?logo=flutter" alt="Flutter"> -->
   <!-- <img src="https://img.shields.io/badge/Next.js-16-black?logo=next.js" alt="Next.js"> -->
@@ -110,58 +110,34 @@ Som Music is a full-featured music streaming application built with Flutter and 
 
 Download the latest version of Som Music for Android:
 
-### Latest Release
+### Latest Release: v4.2.4
 
 <p align="center">
-  <a href="releases/Som-Music-4.1.0.apk" download>
-    <img src="https://img.shields.io/badge/Download-v4.1.0-brightgreen?style=for-the-badge&logo=android" alt="Download v4.1.0">
+  <a href="https://github.com/yousumohamed/Som_Music/releases/download/v4.2.4/app-release.apk" download>
+    <img src="https://img.shields.io/badge/Download-v4.2.4-brightgreen?style=for-the-badge&logo=android" alt="Download v4.2.4">
   </a>
 </p>
 
-**Version 4.1.0** - Latest Stable Release  
-📦 Size: ~63 MB  
-✨ Features: Full feature set with YouTube integration, offline downloads, and more
+**🎵 Som Music v4.2.4 – User Analytics & Performance Update**
 
----
+Som Music v4.2.4 brings powerful new analytics tracking for admins and optimized performance for users.
 
-### Previous Versions
+**🚀 What's New**
+*   **📊 User Analytics**: Detailed tracking of top songs, listening time, and user activity.
+*   **⚡ Optimized Performance**: Added a dedicated lightweight ARM64 build (~26MB).
+*   **🔧 Bug Fixes**: Improved "Recently Played" tracking and event recording.
+*   **🎨 UI Updates**: Enhanced design for analytics dashboard.
 
-<table align="center">
-  <tr>
-    <th>Version</th>
-    <th>Download</th>
-    <th>Size</th>
-    <th>Notes</th>
-  </tr>
-  <tr>
-    <td><strong>v4.1.0</strong></td>
-    <td><a href="releases/Som-Music-4.1.0.apk" download>📥 Download</a></td>
-    <td>~63 MB</td>
-    <td>Universal build - Works on all devices</td>
-  </tr>
-  <tr>
-    <td><strong>v4.1.0</strong></td>
-    <td><a href="releases/Som-Music-v4.1.0-arm64.apk" download>📥 Download</a></td>
-    <td>~25 MB</td>
-    <td>ARM64 optimized - Smaller & faster</td>
-  </tr>
-</table>
+**� Download Options**
+
+| Version | Type | Size | Download Link |
+|:---:|:---:|:---:|:---:|
+| **v4.2.4** | **Universal** (Recommended) | ~66 MB | [📥 Download APK](https://github.com/yousumohamed/Som_Music/releases/download/v4.2.4/app-release.apk) |
+| **v4.2.4** | **ARM64** (Optimized) | ~26 MB | [📥 Download ARM64](https://github.com/yousumohamed/Som_Music/releases/download/v4.2.4/app-arm64-v8a-release.apk) |
 
 > 📋 **[View Full Changelog](CHANGELOG.md)** - See detailed release notes and upcoming features
 
-### 🔍 Which Version Should I Download?
-
-- **Universal APK (v4.1.0)** - Choose this if:
-  - ✅ You want the latest features
-  - ✅ You're not sure about your device architecture
-  - ✅ Maximum compatibility is important
-
-- **ARM64 APK (v4.0.0)** - Choose this if:
-  - ✅ You have a modern Android device (2019+)
-  - ✅ You want a smaller download size
-  - ✅ You want optimized performance
-
-### 📋 Installation Instructions
+###  Installation Instructions
 
 1. **Download** the APK file from the links above
 2. **Enable** "Install from Unknown Sources" in your Android settings
